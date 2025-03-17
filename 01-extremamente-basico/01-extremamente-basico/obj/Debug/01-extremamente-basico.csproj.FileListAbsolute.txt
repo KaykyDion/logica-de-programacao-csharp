@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\01-extremamente-basico\01-extremamente-basico\bin\Debug\01-extremamente-basico.exe.config
+C:\ws-vs2022\uri\01-extremamente-basico\01-extremamente-basico\bin\Debug\01-extremamente-basico.exe
+C:\ws-vs2022\uri\01-extremamente-basico\01-extremamente-basico\bin\Debug\01-extremamente-basico.pdb
+C:\ws-vs2022\uri\01-extremamente-basico\01-extremamente-basico\obj\Debug\01-extremamente-basico.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\01-extremamente-basico\01-extremamente-basico\obj\Debug\01-extremamente-basico.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\01-extremamente-basico\01-extremamente-basico\obj\Debug\01-extremamente-basico.exe
+C:\ws-vs2022\uri\01-extremamente-basico\01-extremamente-basico\obj\Debug\01-extremamente-basico.pdb
