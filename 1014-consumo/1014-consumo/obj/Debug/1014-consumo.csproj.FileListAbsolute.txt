@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1014-consumo\1014-consumo\bin\Debug\1014-consumo.exe.config
+C:\ws-vs2022\uri\1014-consumo\1014-consumo\bin\Debug\1014-consumo.exe
+C:\ws-vs2022\uri\1014-consumo\1014-consumo\bin\Debug\1014-consumo.pdb
+C:\ws-vs2022\uri\1014-consumo\1014-consumo\obj\Debug\1014-consumo.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1014-consumo\1014-consumo\obj\Debug\1014-consumo.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1014-consumo\1014-consumo\obj\Debug\1014-consumo.exe
+C:\ws-vs2022\uri\1014-consumo\1014-consumo\obj\Debug\1014-consumo.pdb

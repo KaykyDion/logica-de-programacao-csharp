@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1016-distancia\1016-distancia\bin\Debug\1016-distancia.exe.config
+C:\ws-vs2022\uri\1016-distancia\1016-distancia\bin\Debug\1016-distancia.exe
+C:\ws-vs2022\uri\1016-distancia\1016-distancia\bin\Debug\1016-distancia.pdb
+C:\ws-vs2022\uri\1016-distancia\1016-distancia\obj\Debug\1016-distancia.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1016-distancia\1016-distancia\obj\Debug\1016-distancia.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1016-distancia\1016-distancia\obj\Debug\1016-distancia.exe
+C:\ws-vs2022\uri\1016-distancia\1016-distancia\obj\Debug\1016-distancia.pdb

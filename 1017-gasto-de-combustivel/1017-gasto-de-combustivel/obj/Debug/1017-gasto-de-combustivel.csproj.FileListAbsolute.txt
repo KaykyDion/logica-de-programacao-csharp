@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1017-gasto-de-combustivel\1017-gasto-de-combustivel\obj\Debug\1017-gasto-de-combustivel.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1017-gasto-de-combustivel\1017-gasto-de-combustivel\obj\Debug\1017-gasto-de-combustivel.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1017-gasto-de-combustivel\1017-gasto-de-combustivel\bin\Debug\1017-gasto-de-combustivel.exe.config
+C:\ws-vs2022\uri\1017-gasto-de-combustivel\1017-gasto-de-combustivel\bin\Debug\1017-gasto-de-combustivel.exe
+C:\ws-vs2022\uri\1017-gasto-de-combustivel\1017-gasto-de-combustivel\bin\Debug\1017-gasto-de-combustivel.pdb
+C:\ws-vs2022\uri\1017-gasto-de-combustivel\1017-gasto-de-combustivel\obj\Debug\1017-gasto-de-combustivel.exe
+C:\ws-vs2022\uri\1017-gasto-de-combustivel\1017-gasto-de-combustivel\obj\Debug\1017-gasto-de-combustivel.pdb
