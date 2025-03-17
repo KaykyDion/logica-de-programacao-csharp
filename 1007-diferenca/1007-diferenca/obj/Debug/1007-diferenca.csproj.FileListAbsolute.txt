@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1007-diferenca\1007-diferenca\bin\Debug\1007-diferenca.exe.config
+C:\ws-vs2022\uri\1007-diferenca\1007-diferenca\bin\Debug\1007-diferenca.exe
+C:\ws-vs2022\uri\1007-diferenca\1007-diferenca\bin\Debug\1007-diferenca.pdb
+C:\ws-vs2022\uri\1007-diferenca\1007-diferenca\obj\Debug\1007-diferenca.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1007-diferenca\1007-diferenca\obj\Debug\1007-diferenca.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1007-diferenca\1007-diferenca\obj\Debug\1007-diferenca.exe
+C:\ws-vs2022\uri\1007-diferenca\1007-diferenca\obj\Debug\1007-diferenca.pdb

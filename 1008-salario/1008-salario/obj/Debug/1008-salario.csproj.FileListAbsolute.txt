@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1008-salario\1008-salario\bin\Debug\1008-salario.exe.config
+C:\ws-vs2022\uri\1008-salario\1008-salario\bin\Debug\1008-salario.exe
+C:\ws-vs2022\uri\1008-salario\1008-salario\bin\Debug\1008-salario.pdb
+C:\ws-vs2022\uri\1008-salario\1008-salario\obj\Debug\1008-salario.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1008-salario\1008-salario\obj\Debug\1008-salario.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1008-salario\1008-salario\obj\Debug\1008-salario.exe
+C:\ws-vs2022\uri\1008-salario\1008-salario\obj\Debug\1008-salario.pdb

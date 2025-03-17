@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1003-soma-simples\1003-soma-simples\bin\Debug\1003-soma-simples.exe.config
+C:\ws-vs2022\uri\1003-soma-simples\1003-soma-simples\bin\Debug\1003-soma-simples.exe
+C:\ws-vs2022\uri\1003-soma-simples\1003-soma-simples\bin\Debug\1003-soma-simples.pdb
+C:\ws-vs2022\uri\1003-soma-simples\1003-soma-simples\obj\Debug\1003-soma-simples.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1003-soma-simples\1003-soma-simples\obj\Debug\1003-soma-simples.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1003-soma-simples\1003-soma-simples\obj\Debug\1003-soma-simples.exe
+C:\ws-vs2022\uri\1003-soma-simples\1003-soma-simples\obj\Debug\1003-soma-simples.pdb

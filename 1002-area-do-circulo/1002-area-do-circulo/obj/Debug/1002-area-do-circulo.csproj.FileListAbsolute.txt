@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1002-area-do-circulo\1002-area-do-circulo\obj\Debug\1002-area-do-circulo.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1002-area-do-circulo\1002-area-do-circulo\obj\Debug\1002-area-do-circulo.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1002-area-do-circulo\1002-area-do-circulo\bin\Debug\1002-area-do-circulo.exe.config
+C:\ws-vs2022\uri\1002-area-do-circulo\1002-area-do-circulo\bin\Debug\1002-area-do-circulo.exe
+C:\ws-vs2022\uri\1002-area-do-circulo\1002-area-do-circulo\bin\Debug\1002-area-do-circulo.pdb
+C:\ws-vs2022\uri\1002-area-do-circulo\1002-area-do-circulo\obj\Debug\1002-area-do-circulo.exe
+C:\ws-vs2022\uri\1002-area-do-circulo\1002-area-do-circulo\obj\Debug\1002-area-do-circulo.pdb

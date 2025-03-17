@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1004-produto-simples\1004-produto-simples\bin\Debug\1004-produto-simples.exe.config
+C:\ws-vs2022\uri\1004-produto-simples\1004-produto-simples\bin\Debug\1004-produto-simples.exe
+C:\ws-vs2022\uri\1004-produto-simples\1004-produto-simples\bin\Debug\1004-produto-simples.pdb
+C:\ws-vs2022\uri\1004-produto-simples\1004-produto-simples\obj\Debug\1004-produto-simples.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1004-produto-simples\1004-produto-simples\obj\Debug\1004-produto-simples.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1004-produto-simples\1004-produto-simples\obj\Debug\1004-produto-simples.exe
+C:\ws-vs2022\uri\1004-produto-simples\1004-produto-simples\obj\Debug\1004-produto-simples.pdb
