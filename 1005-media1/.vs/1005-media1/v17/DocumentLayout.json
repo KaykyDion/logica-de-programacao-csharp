@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ws-vs2022\\uri\\1005-media1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B3851E-43B3-498E-942B-89C9FC6D8C0B}|1005-media1\\1005-media1.csproj|c:\\ws-vs2022\\uri\\1005-media1\\1005-media1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B3851E-43B3-498E-942B-89C9FC6D8C0B}|1005-media1\\1005-media1.csproj|solutionrelative:1005-media1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-vs2022\\uri\\1005-media1\\1005-media1\\Program.cs",
+              "RelativeDocumentMoniker": "1005-media1\\Program.cs",
+              "ToolTip": "C:\\ws-vs2022\\uri\\1005-media1\\1005-media1\\Program.cs",
+              "RelativeToolTip": "1005-media1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:41:30.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

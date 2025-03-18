@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1006-media2\1006-media2\bin\Debug\1006-media2.exe.config
+C:\ws-vs2022\uri\1006-media2\1006-media2\bin\Debug\1006-media2.exe
+C:\ws-vs2022\uri\1006-media2\1006-media2\bin\Debug\1006-media2.pdb
+C:\ws-vs2022\uri\1006-media2\1006-media2\obj\Debug\1006-media2.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1006-media2\1006-media2\obj\Debug\1006-media2.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1006-media2\1006-media2\obj\Debug\1006-media2.exe
+C:\ws-vs2022\uri\1006-media2\1006-media2\obj\Debug\1006-media2.pdb
