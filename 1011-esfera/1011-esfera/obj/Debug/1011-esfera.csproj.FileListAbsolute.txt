@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1011-esfera\1011-esfera\bin\Debug\1011-esfera.exe.config
+C:\ws-vs2022\uri\1011-esfera\1011-esfera\bin\Debug\1011-esfera.exe
+C:\ws-vs2022\uri\1011-esfera\1011-esfera\bin\Debug\1011-esfera.pdb
+C:\ws-vs2022\uri\1011-esfera\1011-esfera\obj\Debug\1011-esfera.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1011-esfera\1011-esfera\obj\Debug\1011-esfera.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1011-esfera\1011-esfera\obj\Debug\1011-esfera.exe
+C:\ws-vs2022\uri\1011-esfera\1011-esfera\obj\Debug\1011-esfera.pdb

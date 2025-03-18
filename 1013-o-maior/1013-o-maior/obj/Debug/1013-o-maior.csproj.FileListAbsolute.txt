@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1013-o-maior\1013-o-maior\bin\Debug\1013-o-maior.exe.config
+C:\ws-vs2022\uri\1013-o-maior\1013-o-maior\bin\Debug\1013-o-maior.exe
+C:\ws-vs2022\uri\1013-o-maior\1013-o-maior\bin\Debug\1013-o-maior.pdb
+C:\ws-vs2022\uri\1013-o-maior\1013-o-maior\obj\Debug\1013-o-maior.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1013-o-maior\1013-o-maior\obj\Debug\1013-o-maior.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1013-o-maior\1013-o-maior\obj\Debug\1013-o-maior.exe
+C:\ws-vs2022\uri\1013-o-maior\1013-o-maior\obj\Debug\1013-o-maior.pdb

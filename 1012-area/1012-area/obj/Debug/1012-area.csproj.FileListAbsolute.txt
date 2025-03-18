@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1012-area\1012-area\bin\Debug\1012-area.exe.config
+C:\ws-vs2022\uri\1012-area\1012-area\bin\Debug\1012-area.exe
+C:\ws-vs2022\uri\1012-area\1012-area\bin\Debug\1012-area.pdb
+C:\ws-vs2022\uri\1012-area\1012-area\obj\Debug\1012-area.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1012-area\1012-area\obj\Debug\1012-area.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1012-area\1012-area\obj\Debug\1012-area.exe
+C:\ws-vs2022\uri\1012-area\1012-area\obj\Debug\1012-area.pdb

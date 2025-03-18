@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1015-distancia-entre-dois-pontos\1015-distancia-entre-dois-pontos\obj\Debug\1015-distancia-entre-dois-pontos.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1015-distancia-entre-dois-pontos\1015-distancia-entre-dois-pontos\obj\Debug\1015-distancia-entre-dois-pontos.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1015-distancia-entre-dois-pontos\1015-distancia-entre-dois-pontos\bin\Debug\1015-distancia-entre-dois-pontos.exe.config
+C:\ws-vs2022\uri\1015-distancia-entre-dois-pontos\1015-distancia-entre-dois-pontos\bin\Debug\1015-distancia-entre-dois-pontos.exe
+C:\ws-vs2022\uri\1015-distancia-entre-dois-pontos\1015-distancia-entre-dois-pontos\bin\Debug\1015-distancia-entre-dois-pontos.pdb
+C:\ws-vs2022\uri\1015-distancia-entre-dois-pontos\1015-distancia-entre-dois-pontos\obj\Debug\1015-distancia-entre-dois-pontos.exe
+C:\ws-vs2022\uri\1015-distancia-entre-dois-pontos\1015-distancia-entre-dois-pontos\obj\Debug\1015-distancia-entre-dois-pontos.pdb

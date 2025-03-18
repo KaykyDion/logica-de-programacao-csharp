@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ws-vs2022\\uri\\1015-distancia-entre-dois-pontos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DFD1F8-FBFA-477E-B2C1-550737B5DBE4}|1015-distancia-entre-dois-pontos\\1015-distancia-entre-dois-pontos.csproj|c:\\ws-vs2022\\uri\\1015-distancia-entre-dois-pontos\\1015-distancia-entre-dois-pontos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DFD1F8-FBFA-477E-B2C1-550737B5DBE4}|1015-distancia-entre-dois-pontos\\1015-distancia-entre-dois-pontos.csproj|solutionrelative:1015-distancia-entre-dois-pontos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-vs2022\\uri\\1015-distancia-entre-dois-pontos\\1015-distancia-entre-dois-pontos\\Program.cs",
+              "RelativeDocumentMoniker": "1015-distancia-entre-dois-pontos\\Program.cs",
+              "ToolTip": "C:\\ws-vs2022\\uri\\1015-distancia-entre-dois-pontos\\1015-distancia-entre-dois-pontos\\Program.cs",
+              "RelativeToolTip": "1015-distancia-entre-dois-pontos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T22:37:39.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

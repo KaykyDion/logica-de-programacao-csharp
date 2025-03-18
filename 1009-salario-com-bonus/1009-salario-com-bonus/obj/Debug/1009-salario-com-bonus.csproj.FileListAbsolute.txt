@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1009-salario-com-bonus\1009-salario-com-bonus\bin\Debug\1009-salario-com-bonus.exe.config
+C:\ws-vs2022\uri\1009-salario-com-bonus\1009-salario-com-bonus\bin\Debug\1009-salario-com-bonus.exe
+C:\ws-vs2022\uri\1009-salario-com-bonus\1009-salario-com-bonus\bin\Debug\1009-salario-com-bonus.pdb
+C:\ws-vs2022\uri\1009-salario-com-bonus\1009-salario-com-bonus\obj\Debug\1009-salario-com-bonus.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1009-salario-com-bonus\1009-salario-com-bonus\obj\Debug\1009-salario-com-bonus.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1009-salario-com-bonus\1009-salario-com-bonus\obj\Debug\1009-salario-com-bonus.exe
+C:\ws-vs2022\uri\1009-salario-com-bonus\1009-salario-com-bonus\obj\Debug\1009-salario-com-bonus.pdb
