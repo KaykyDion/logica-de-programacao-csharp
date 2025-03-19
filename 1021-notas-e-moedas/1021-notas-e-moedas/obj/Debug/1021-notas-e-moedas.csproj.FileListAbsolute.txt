@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1021-notas-e-moedas\1021-notas-e-moedas\bin\Debug\1021-notas-e-moedas.exe.config
+C:\ws-vs2022\uri\1021-notas-e-moedas\1021-notas-e-moedas\bin\Debug\1021-notas-e-moedas.exe
+C:\ws-vs2022\uri\1021-notas-e-moedas\1021-notas-e-moedas\bin\Debug\1021-notas-e-moedas.pdb
+C:\ws-vs2022\uri\1021-notas-e-moedas\1021-notas-e-moedas\obj\Debug\1021-notas-e-moedas.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1021-notas-e-moedas\1021-notas-e-moedas\obj\Debug\1021-notas-e-moedas.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1021-notas-e-moedas\1021-notas-e-moedas\obj\Debug\1021-notas-e-moedas.exe
+C:\ws-vs2022\uri\1021-notas-e-moedas\1021-notas-e-moedas\obj\Debug\1021-notas-e-moedas.pdb

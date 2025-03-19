@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1018-cedulas\1018-cedulas\bin\Debug\1018-cedulas.exe.config
+C:\ws-vs2022\uri\1018-cedulas\1018-cedulas\bin\Debug\1018-cedulas.exe
+C:\ws-vs2022\uri\1018-cedulas\1018-cedulas\bin\Debug\1018-cedulas.pdb
+C:\ws-vs2022\uri\1018-cedulas\1018-cedulas\obj\Debug\1018-cedulas.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1018-cedulas\1018-cedulas\obj\Debug\1018-cedulas.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1018-cedulas\1018-cedulas\obj\Debug\1018-cedulas.exe
+C:\ws-vs2022\uri\1018-cedulas\1018-cedulas\obj\Debug\1018-cedulas.pdb

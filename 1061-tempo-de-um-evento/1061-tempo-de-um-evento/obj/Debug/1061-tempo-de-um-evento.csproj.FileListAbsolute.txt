@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1061-tempo-de-um-evento\1061-tempo-de-um-evento\bin\Debug\1061-tempo-de-um-evento.exe.config
+C:\ws-vs2022\uri\1061-tempo-de-um-evento\1061-tempo-de-um-evento\bin\Debug\1061-tempo-de-um-evento.exe
+C:\ws-vs2022\uri\1061-tempo-de-um-evento\1061-tempo-de-um-evento\bin\Debug\1061-tempo-de-um-evento.pdb
+C:\ws-vs2022\uri\1061-tempo-de-um-evento\1061-tempo-de-um-evento\obj\Debug\1061-tempo-de-um-evento.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1061-tempo-de-um-evento\1061-tempo-de-um-evento\obj\Debug\1061-tempo-de-um-evento.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1061-tempo-de-um-evento\1061-tempo-de-um-evento\obj\Debug\1061-tempo-de-um-evento.exe
+C:\ws-vs2022\uri\1061-tempo-de-um-evento\1061-tempo-de-um-evento\obj\Debug\1061-tempo-de-um-evento.pdb

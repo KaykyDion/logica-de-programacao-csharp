@@ -1,0 +1,7 @@
+C:\ws-vs2022\uri\1020-idade-em-dias\1020-idade-em-dias\bin\Debug\1020-idade-em-dias.exe.config
+C:\ws-vs2022\uri\1020-idade-em-dias\1020-idade-em-dias\bin\Debug\1020-idade-em-dias.exe
+C:\ws-vs2022\uri\1020-idade-em-dias\1020-idade-em-dias\bin\Debug\1020-idade-em-dias.pdb
+C:\ws-vs2022\uri\1020-idade-em-dias\1020-idade-em-dias\obj\Debug\1020-idade-em-dias.csproj.AssemblyReference.cache
+C:\ws-vs2022\uri\1020-idade-em-dias\1020-idade-em-dias\obj\Debug\1020-idade-em-dias.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\uri\1020-idade-em-dias\1020-idade-em-dias\obj\Debug\1020-idade-em-dias.exe
+C:\ws-vs2022\uri\1020-idade-em-dias\1020-idade-em-dias\obj\Debug\1020-idade-em-dias.pdb
